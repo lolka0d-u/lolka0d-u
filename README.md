@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
 <!--
 **lolka0d-u/lolka0d-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
